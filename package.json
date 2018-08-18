@@ -1,0 +1,28 @@
+{
+  "name": "tribute_page",
+  "version": "1.0.0",
+  "description": "This is a tribute page for Walter \"Heisenberg\" White",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhanmiKhir/walter_white.git"
+  },
+  "keywords": [
+    "walter",
+    "white",
+    "tribute",
+    "page",
+    "freecodecamp",
+    "ghanmi",
+    "khir"
+  ],
+  "author": "ghanmi khir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhanmiKhir/walter_white/issues"
+  },
+  "homepage": "https://github.com/GhanmiKhir/walter_white#readme"
+}
